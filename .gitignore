@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+pricing_env/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Archive
+archive/
+
+data
