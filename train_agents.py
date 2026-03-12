@@ -297,7 +297,7 @@ def main():
     os.makedirs("outputs/training", exist_ok=True)
 
     config = SimulatorConfig(seed=42)
-    TRAIN_STEPS = 200_000  # Total training timesteps
+    TRAIN_STEPS = 120_000  # Total training timesteps
 
     # --- Train SAC ---
     sac_model, sac_rewards = train_sac(config, total_timesteps=TRAIN_STEPS, seed=42)
