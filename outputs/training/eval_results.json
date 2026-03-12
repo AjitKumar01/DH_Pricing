@@ -1,0 +1,38 @@
+{
+  "zero_discount": {
+    "reward_mean": 18126.429999999997,
+    "reward_std": 386.39954464258886,
+    "revenue_mean": 35720.7,
+    "margin_mean": 17824.329999999998,
+    "discount_cost_mean": 0.0,
+    "clearance_mean": 4802.1,
+    "budget_used_mean": 0.0
+  },
+  "random": {
+    "reward_mean": -27974.55582417582,
+    "reward_std": 4365.931726500569,
+    "revenue_mean": 30406.6,
+    "margin_mean": 7281.0599999999995,
+    "discount_cost_mean": 17468.899999999998,
+    "clearance_mean": 7367.0,
+    "budget_used_mean": 17468.9
+  },
+  "heuristic": {
+    "reward_mean": 21996.66401098901,
+    "reward_std": 94.22749979598628,
+    "revenue_mean": 39975.170000000006,
+    "margin_mean": 16880.07,
+    "discount_cost_mean": 7839.029999999999,
+    "clearance_mean": 7357.7,
+    "budget_used_mean": 7839.029999999999
+  },
+  "sac": {
+    "reward_mean": 26111.10271978022,
+    "reward_std": 49.86346360960632,
+    "revenue_mean": 44884.645000000004,
+    "margin_mean": 21771.595,
+    "discount_cost_mean": 2958.7050000000004,
+    "clearance_mean": 7360.8,
+    "budget_used_mean": 2958.705000000001
+  }
+}

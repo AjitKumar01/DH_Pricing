@@ -1,0 +1,16 @@
+product_id,name,category,base_price,unit_cost,initial_inventory
+0,Organic Milk 1L,dairy,4.5,2.2,200
+1,Greek Yogurt 500g,dairy,5.0,2.5,180
+2,Cheddar Cheese 200g,dairy,6.0,3.0,150
+3,Sourdough Bread,bakery,5.5,2.0,220
+4,Croissant 4-pack,bakery,4.0,1.5,200
+5,Whole Wheat Wrap 6pk,bakery,3.5,1.2,180
+6,Atlantic Salmon 300g,protein,12.0,7.0,100
+7,Chicken Breast 500g,protein,8.0,4.5,150
+8,Plant-Based Burger 2pk,protein,9.5,5.0,120
+9,Cabernet Sauvignon,beverages,15.0,8.0,80
+10,Craft IPA 6-pack,beverages,12.0,6.5,100
+11,Sparkling Water 12pk,beverages,6.0,2.5,220
+12,Dark Chocolate Bar,snacks,4.0,1.8,250
+13,Trail Mix 400g,snacks,7.0,3.5,160
+14,Protein Bar 6-pack,snacks,8.5,4.0,140
