@@ -1,0 +1,13 @@
+{
+  "elasticity_source": "hybrid_iv_ols",
+  "mean_elasticity": -2.6360000000000006,
+  "baseline_correlation": 0.9808854541320587,
+  "baseline_ratio": 0.9843356643356643,
+  "discount_response_correlation": 0.800723625388983,
+  "discount_response_mae": 0.6307845848018483,
+  "price_quantity_correlation": 0.6350908739616726,
+  "dow_correlation": 1.0,
+  "poisson_dispersion": 11.061507135398537,
+  "tests_passed": 6,
+  "tests_total": 7
+}
